@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d002b2bf-5413-4974-b7c5-02b73f8987a7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="34" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Rhu6Wz9MQc3wa7ecM49SY3oJiZ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\canar\Documents\Practica1_1\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ComunicationBetweenProcess">
+    <configuration name="ComunicationBetweenProcess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3.ComunicationBetweenProcess" />
+      <module name="Practica1_1" />
+      <option name="PROGRAM_PARAMETERS" value="cmd.exe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaPing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio4.JavaPing" />
+      <module name="Practica1_1" />
+      <option name="PROGRAM_PARAMETERS" value="cmd.exe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3.a" />
+      <module name="Practica1_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prueba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3.prueba" />
+      <module name="Practica1_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ComunicationBetweenProcess" />
+      <item itemvalue="Application.prueba" />
+      <item itemvalue="Application.JavaPing" />
+      <item itemvalue="Application.a" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ComunicationBetweenProcess" />
+        <item itemvalue="Application.JavaPing" />
+        <item itemvalue="Application.a" />
+        <item itemvalue="Application.prueba" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d002b2bf-5413-4974-b7c5-02b73f8987a7" name="Default Changelist" comment="" />
+      <created>1570131473789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570131473789</updated>
+      <workItem from="1570131476402" duration="2692000" />
+      <workItem from="1570135046997" duration="734000" />
+      <workItem from="1570135811464" duration="5053000" />
+      <workItem from="1570172692135" duration="717000" />
+      <workItem from="1570178426233" duration="8264000" />
+      <workItem from="1570206160396" duration="235000" />
+      <workItem from="1570206407033" duration="533000" />
+      <workItem from="1570207000412" duration="11884000" />
+      <workItem from="1570219071208" duration="748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practica1_1$ComunicationBetweenProcess.ic" NAME="ComunicationBetweenProcess Coverage Results" MODIFIED="1570212868184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ejercicio4.*</FILTER>
+    </SUITE>
+  </component>
+</project>
